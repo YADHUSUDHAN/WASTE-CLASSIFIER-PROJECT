@@ -1,0 +1,3 @@
+0 Biodegradable
+1 Non-biodegradable
+2 No Waste
